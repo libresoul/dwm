@@ -17,7 +17,7 @@ install the following dependencies[^1] for dwm using your package manager.
 [^1]:the above libraries are specifically for Debian.. if you are on another Linux distribution, the package names would be slightly different. As a workaround you can install dwm from the repositories using your package manager because then all the dependencies for your system should be installed and after that you could remove dwm or just simply let it be replaced with the initial build.
 
 
-Afterwards enter the following command to build ans install dwm (if necessary as root):
+Afterwards enter the following command to build and install dwm (if necessary as root):
 
     make clean install
 
