@@ -27,7 +27,7 @@ Add the following line to your `.xinitrc` to start dwm using startx:
 
     exec dwm
 
-or you can grab my [xinitrc](https://github.com/libresoul/dwm/blob/main/xinitrc)
+or you can grab my [.xinitrc](https://github.com/libresoul/dwm/blob/main/.xinitrc)
 
 If you are using a Display manager you may need to create a `dwm.desktop` file in `/usr/share/Xsessions` directory and symlink your `.xinitrc` to `.xprofile`
 
