@@ -2,7 +2,7 @@
 
 dwm is a minimal, extreamly fast window manager for X with no eye candies whatsoever.
 
-These are my configuration changes while I was patching dwm using the patches in the `/patches` directory.. The relevent startup scripts can be found in `/scripts`.
+These are my configuration changes while I was patching dwm as per ny needs using the patches in the `/patches` directory.. The relevent startup scripts can be found in `/scripts`.
 
 # Requirements
 
