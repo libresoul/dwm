@@ -12,9 +12,10 @@ in order to build dwm you need the Xlib header files along with some X11 extensi
 
 install the following dependencies[^1] for dwm from your using your package manager.
 
+    libx11-dev libxft-dev libxinerama-dev libxrandr-dev
+
 [^1]:the above libraries are specifically for Debian.. if you on another Linux distribution the package names would be slightly different. As a workaround you can install dwm from the repositories using your package manager because then all the dependencies for your system should be installed and after that you could remove dwm or just simply let it be replaced with the initial build.
 
-    libx11-dev libxft-dev libxinerama-dev libxrandr-dev
 
 Afterwards enter the following command to build ans install dwm (if necessary as root):
 
