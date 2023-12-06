@@ -10,7 +10,7 @@ in order to build dwm you need the Xlib header files along with some X11 extensi
 
 # Installation
 
-install the following dependencies[^1] for dwm from your using your package manager.
+install the following dependencies[^1] for dwm using your package manager.
 
     libx11-dev libxft-dev libxinerama-dev libxrandr-dev
 
