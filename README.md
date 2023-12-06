@@ -2,7 +2,7 @@
 
 dwm is a minimal, extreamly fast window manager for X with no eye candies whatsoever.
 
-These are my configuration changes while I wa s patching dwm using the patches in the `/patche` directory.. The relevent startup scripts can be found in `/scripts`.
+These are my configuration changes while I wa s patching dwm using the patches in the `/patches` directory.. The relevent startup scripts can be found in `/scripts`.
 
 # Requirements
 
@@ -14,7 +14,7 @@ install the following dependencies[^1] for dwm from your using your package mana
 
     libx11-dev libxft-dev libxinerama-dev libxrandr-dev
 
-[^1]:the above libraries are specifically for Debian.. if you on another Linux distribution, the package names would be slightly different. As a workaround you can install dwm from the repositories using your package manager because then all the dependencies for your system should be installed and after that you could remove dwm or just simply let it be replaced with the initial build.
+[^1]:the above libraries are specifically for Debian.. if you are on another Linux distribution, the package names would be slightly different. As a workaround you can install dwm from the repositories using your package manager because then all the dependencies for your system should be installed and after that you could remove dwm or just simply let it be replaced with the initial build.
 
 
 Afterwards enter the following command to build ans install dwm (if necessary as root):
