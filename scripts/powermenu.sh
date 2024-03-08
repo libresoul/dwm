@@ -7,8 +7,8 @@ case $OPTION in
 	"Lock") $(slock) ;;
 	"Logout") $(pkill -u $USER) ;;
 	"Suspend") $(systemctl suspend) ;;
-	"Shutdown") $(sudo shutdown now) ;;
-	"Reboot") $(sudo reboot now) ;;
+	"Shutdown") $(systemctl poweroff) ;;
+	"Reboot") $(systemctl reboot) ;;
 	*) exit 0 ;;
 esac
 
