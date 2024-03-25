@@ -46,6 +46,7 @@ static const Rule rules[] = {
 	{ "st-256color",      	NULL,           NULL,           	     0,         0,          1,           0,        -1 },
 	{ "konsole",      	NULL,           NULL,           	     0,         0,          0,           0,        -1 },
 	{ "Pavucontrol",      	NULL,           NULL,           	     0,         1,          0,           0,        -1 },
+	{ "Thunar",             NULL,           NULL,                        0,         1,          0,           0,        -1 },
 	{ "feh",      		NULL,           NULL,           	     0,         1,          0,           0,        -1 },
 	{ "vlc",      		NULL,           "Current Media Information", 0,         1,          0,           0,        -1 },
 	{ NULL,      		NULL,           "Picture in picture",	     0,         1,          0,           0,        -1 },
